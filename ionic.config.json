@@ -1,0 +1,7 @@
+{
+  "name": "Trawen-Live",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
